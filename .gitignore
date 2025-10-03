@@ -52,3 +52,7 @@ Thumbs.db
 data/processed/organizers/
 scripts/prepare_data.py
 scripts/evaluate_submission.py
+
+
+baseline_submission.csv
+test.ipynb
