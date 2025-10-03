@@ -29,6 +29,7 @@ build/
 
 # Data - Keep only what's needed for participants
 data/raw/
+data/processed/*
 data/interim/
 !data/raw/.gitkeep
 !data/raw/participants/*
